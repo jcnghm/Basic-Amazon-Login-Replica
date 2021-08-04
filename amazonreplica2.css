@@ -1,9 +1,12 @@
+body {
+    text-align: center;
+}
 .container {
     background-color: white;
     padding: 20px;
-    width: 40%;
+    width: 20%;
     border: 1px solid black;
-    
+    margin-left: 39%;
   }
   .button1 {
     background-color: #F7C548;
@@ -15,7 +18,7 @@
     display: flex;
     justify-content: space-around;
     width: 50%;
-   
+    margin-left: 20%;
   }
   .inner2 > p2 {
     color: blue;
@@ -48,4 +51,5 @@
   .copyright {
     display: flex;
     align-items: center;
+    margin-left: 43%;
   }
